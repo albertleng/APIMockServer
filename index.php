@@ -22,7 +22,7 @@ $app->configureMode('development', function() use ($app) {
 // variables for return values
 $states = array('NOT_CHARGING',
     'CHARGING', 'CHARGED', 'TO_DESTINATION',
-    'AT_DESTINATION', 'WAITING_FOR_LOCK',
+    'AT_DESTINATION', 'WAITING_FOR_LOCK', 'WAITING_FOR_ELEVATOR',
     'WAITING_FOR_DOOR', 'UNAVAILABLE');
 $statuses = array('Pushed on FirstFloor', 'Charging on',
     'Restarted on FirstFloor', 'Charged on Dock 4',
