@@ -1,6 +1,6 @@
-# Aethon API Mock Server
+# [Aethon API Mock Server](https://github.com/albertleng/AethonAPIMockServer)
 
-Aethon API Mock Server used to test endpoints /go, /job, /destination, /status, and /pause by returning responses with randomized data.
+Aethon API Mock Server used to test endpoints `/go`, `/job`, `/destination`, `/status`, and `/pause` by returning responses with randomized data.
 
 # Requirements:
 [php 7++](www.php.net)
@@ -26,10 +26,10 @@ git clone https://github.com/albertleng/AethonAPIMockServer.git <folder-name>
 ```
 
 ```
- php -S localhost:8080 -t <folder-name> <folder-name>/index.php
+ php -S 0.0.0.0:8080 -t <folder-name> <folder-name>/index.php
 ```
 
-Start making REST requests via localhost:8080/<endpoint>
+Start making REST requests via <ip-address>:8080/ from another machine in the same network.<endpoint>
     
     
 ## Contributing
