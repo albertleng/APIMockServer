@@ -30,3 +30,11 @@ git clone https://github.com/albertleng/AethonAPIMockServer.git <folder-name>
 ```
 
 Start making REST requests via localhost:8080/<endpoint>
+    
+    
+## Contributing
+This repository is kept private and only open for the following users:
+  * [Boon Heng](boonheng@stengg.com)
+  * [Zi Yang](kan.ziyang@stengg.com)
+  * [Meria](merianah@aethon.com)
+  * [Feroz](anwarbatcha@stengg.com)
