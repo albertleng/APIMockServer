@@ -3,7 +3,7 @@
 Aethon API Mock Server used to test endpoints /go, /job, /destination, /status, and /pause by returning responses with randomized data.
 
 # Requirements:
-[php 7++](www.pho.net)
+[php 7++](www.php.net)
 
 [Slim Microframework 2](http://www.slimframework.com/docs/v2/)
 
