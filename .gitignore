@@ -98,4 +98,5 @@ fabric.properties
 # See https://youtrack.jetbrains.com/issue/JBR-2257
 .idea/$CACHE_FILE$
 
+.idea/g
 # End of https://www.toptal.com/developers/gitignore/api/phpstorm
